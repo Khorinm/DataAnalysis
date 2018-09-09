@@ -17,3 +17,4 @@
 <a href=http://nbviewer.jupyter.org/gist/Khorinm/b4ea00b8a19e580cc179a7973952f136>Линейная регрессия</a><p>
 <a href=https://github.com/Khorinm/DataAnalysis/blob/master/Numpy%20Pandas.ipynb>Логистическая регрессия</a><p>
 <a href=http://nbviewer.jupyter.org/gist/Khorinm/ae1e93f1ccbc8087a8ec85296ed68013>Random Forest</a><p>
+<a href=https://github.com/Khorinm/DataAnalysis/blob/master/Project%20(Diabetes%20prediction).ipynb>Курсовой проект (Diabetes prediction)</a><p>
