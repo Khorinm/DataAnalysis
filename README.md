@@ -12,5 +12,8 @@
 </ul>
 
 # Введение в анализ данных
-<a href>NumpyPandas</a><p>
-<a href>Определение тональности отзывов</a>
+<a href=https://github.com/Khorinm/DataAnalysis/blob/master/Numpy%20Pandas.ipynb>NumpyPandas</a><p>
+<a href=https://github.com/Khorinm/DataAnalysis/blob/master/Определение%20тональности%20отзывов.ipynb>Определение тональности отзывов</a><p>
+<a href=http://nbviewer.jupyter.org/gist/Khorinm/b4ea00b8a19e580cc179a7973952f136>Линейная регрессия</a><p>
+<a href=https://github.com/Khorinm/DataAnalysis/blob/master/Numpy%20Pandas.ipynb>Логистическая регрессия</a><p>
+<a href=http://nbviewer.jupyter.org/gist/Khorinm/4da526b3e90a6a923bfb72f267b5d309>Random Forest</a><p>
