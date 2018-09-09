@@ -11,7 +11,7 @@
   <li>Прикладные задачи анализа данных (решение различных прикладных задач анализа данных)</li>
 </ul>
 
-# Введение в анализ данных
+## Введение в анализ данных
 <a href=https://github.com/Khorinm/DataAnalysis/blob/master/Numpy%20Pandas.ipynb>NumpyPandas</a><p>
 <a href=https://github.com/Khorinm/DataAnalysis/blob/master/Определение%20тональности%20отзывов.ipynb>Определение тональности отзывов</a><p>
 <a href=http://nbviewer.jupyter.org/gist/Khorinm/b4ea00b8a19e580cc179a7973952f136>Линейная регрессия</a><p>
